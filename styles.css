@@ -47,6 +47,169 @@
 .one , .two {
     filter: blur(1px);
   }
+  
+  
+
+
+  
+.framea {
+    border: 50px solid black;
+    width: 500px;
+    padding: 50px;
+    margin: 20px auto; 
+}
+ 
+.canvasa {
+    width: 500px;
+    height: 600px;
+    background-color: rebeccapurple;
+    overflow: hidden;
+    filter: blur(2px);
+}
+ 
+.onea {
+    width: 425px;
+    height: 150px;
+    background-color: #efb762;
+    margin: 20px auto;
+    box-shadow: 0 0 3px 3px #efb762;
+    border-radius: 9px;
+    transform: rotate(-0.6deg);
+}
+ 
+.twoa {
+    width: 475px;
+    height: 200px;
+    background-color: #455ba2;
+    margin: 0 auto 20px;
+    box-shadow: 0 0 3px 3px #455ba2;
+    border-radius: 8px 10px;
+    transform: rotate(0.4deg);
+}
+ 
+.threea {
+    width: 91%;
+    height: 28%;
+    background-color: #d15252;
+    margin: auto;
+    filter: blur(2px);
+    box-shadow: 0 0 5px 5px #d15252;
+    border-radius: 30px 25px 60px 12px;
+    transform: rotate(-0.2deg);
+}
+ 
+.onea , .twoa {
+    filter: blur(1px);
+  }
+  
+  
+  
+  
+  
+  
+  
+.frameb {
+   border: 50px solid black;
+   width: 500px;
+   padding: 50px;
+   margin: 20px auto; 
+}
+.canvasb {
+   width: 500px;
+   height: 600px;
+   background-color: rebeccapurple;
+   overflow: hidden;
+   filter: blur(2px);
+}
+.oneb {
+   width: 425px;
+   height: 150px;
+   background-color: #efb762;
+   margin: 20px auto;
+   box-shadow: 0 0 3px 3px #efb762;
+   border-radius: 9px;
+   transform: rotate(-0.6deg);
+}
+.twob {
+   width: 475px;
+   height: 200px;
+   background-color: #455ba2;
+   margin: 0 auto 20px;
+   box-shadow: 0 0 3px 3px #455ba2;
+   border-radius: 8px 10px;
+   transform: rotate(0.4deg);
+}
+.threeb {
+   width: 91%;
+   height: 28%;
+   background-color: #d15252;
+   margin: auto;
+   filter: blur(2px);
+   box-shadow: 0 0 5px 5px #d15252;
+   border-radius: 30px 25px 60px 12px;
+   transform: rotate(-0.2deg);
+}
+.oneb , .twob {
+   filter: blur(1px);
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ .framec {
+     border: 50px solid black;
+     width: 500px;
+     padding: 50px;
+     margin: 20px auto; 
+ }
+ 
+ .canvasc {
+     width: 500px;
+     height: 600px;
+     background-color: rebeccapurple;
+     overflow: hidden;
+     filter: blur(2px);
+ }
+ 
+ .onec {
+     width: 425px;
+     height: 150px;
+     background-color: #efb762;
+     margin: 20px auto;
+     box-shadow: 0 0 3px 3px #efb762;
+     border-radius: 9px;
+     transform: rotate(-0.6deg);
+ }
+ 
+ .twoc {
+     width: 475px;
+     height: 200px;
+     background-color: #455ba2;
+     margin: 0 auto 20px;
+     box-shadow: 0 0 3px 3px #455ba2;
+     border-radius: 8px 10px;
+     transform: rotate(0.4deg);
+ }
+ 
+ .threec {
+     width: 91%;
+     height: 28%;
+     background-color: #d15252;
+     margin: auto;
+     filter: blur(2px);
+     box-shadow: 0 0 5px 5px #d15252;
+     border-radius: 30px 25px 60px 12px;
+     transform: rotate(-0.2deg);
+ }
+ 
+ .onec , .twoc {
+     filter: blur(1px);
+   }
+
+
+
 
   .name {
     font-size: 50px;
