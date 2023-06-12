@@ -62,7 +62,7 @@
 .canvasa {
     width: 500px;
     height: 600px;
-    background-color: rebeccapurple;
+    background-color: rgb(99, 183, 134);
     overflow: hidden;
     filter: blur(2px);
 }
@@ -70,19 +70,19 @@
 .onea {
     width: 425px;
     height: 150px;
-    background-color: #efb762;
+    background-color: #62e1ef;
     margin: 20px auto;
-    box-shadow: 0 0 3px 3px #efb762;
+    box-shadow: 0 0 3px 3px #62e1ef;
     border-radius: 9px;
     transform: rotate(-0.6deg);
 }
  
 .twoa {
-    width: 475px;
-    height: 200px;
-    background-color: #455ba2;
+    width: 405px;
+    height: 190px;
+    background-color: #a24586;
     margin: 0 auto 20px;
-    box-shadow: 0 0 3px 3px #455ba2;
+    box-shadow: 0 0 3px 3px #a24586;
     border-radius: 8px 10px;
     transform: rotate(0.4deg);
 }
@@ -90,10 +90,10 @@
 .threea {
     width: 91%;
     height: 28%;
-    background-color: #d15252;
+    background-color: #0c3a11;
     margin: auto;
     filter: blur(2px);
-    box-shadow: 0 0 5px 5px #d15252;
+    box-shadow: 0 0 5px 5px #0c3a11;
     border-radius: 30px 25px 60px 12px;
     transform: rotate(-0.2deg);
 }
@@ -117,97 +117,42 @@
 .canvasb {
    width: 500px;
    height: 600px;
-   background-color: rebeccapurple;
+   background-color: rgb(136, 128, 145);
    overflow: hidden;
    filter: blur(2px);
 }
 .oneb {
-   width: 425px;
+   width: 450px;
    height: 150px;
-   background-color: #efb762;
-   margin: 20px auto;
-   box-shadow: 0 0 3px 3px #efb762;
+   background-color: #936116;
+   margin: 30px auto;
+   box-shadow: 0 0 3px 3px #936116;
    border-radius: 9px;
    transform: rotate(-0.6deg);
 }
 .twob {
-   width: 475px;
-   height: 200px;
-   background-color: #455ba2;
-   margin: 0 auto 20px;
-   box-shadow: 0 0 3px 3px #455ba2;
+   width: 375px;
+   height: 150px;
+   background-color: #9a901d;
+   margin: 0 auto 40px;
+   box-shadow: 0 0 3px 3px #9a901d;
    border-radius: 8px 10px;
    transform: rotate(0.4deg);
 }
 .threeb {
-   width: 91%;
+   width: 86%;
    height: 28%;
-   background-color: #d15252;
+   background-color: #ab52d1;
    margin: auto;
    filter: blur(2px);
-   box-shadow: 0 0 5px 5px #d15252;
+   box-shadow: 0 0 5px 5px #ab52d1;
    border-radius: 30px 25px 60px 12px;
-   transform: rotate(-0.2deg);
+   transform: rotate(-1.5deg);
 }
 .oneb , .twob {
    filter: blur(1px);
  }
  
- 
- 
- 
- 
- 
- .framec {
-     border: 50px solid black;
-     width: 500px;
-     padding: 50px;
-     margin: 20px auto; 
- }
- 
- .canvasc {
-     width: 500px;
-     height: 600px;
-     background-color: rebeccapurple;
-     overflow: hidden;
-     filter: blur(2px);
- }
- 
- .onec {
-     width: 425px;
-     height: 150px;
-     background-color: #efb762;
-     margin: 20px auto;
-     box-shadow: 0 0 3px 3px #efb762;
-     border-radius: 9px;
-     transform: rotate(-0.6deg);
- }
- 
- .twoc {
-     width: 475px;
-     height: 200px;
-     background-color: #455ba2;
-     margin: 0 auto 20px;
-     box-shadow: 0 0 3px 3px #455ba2;
-     border-radius: 8px 10px;
-     transform: rotate(0.4deg);
- }
- 
- .threec {
-     width: 91%;
-     height: 28%;
-     background-color: #d15252;
-     margin: auto;
-     filter: blur(2px);
-     box-shadow: 0 0 5px 5px #d15252;
-     border-radius: 30px 25px 60px 12px;
-     transform: rotate(-0.2deg);
- }
- 
- .onec , .twoc {
-     filter: blur(1px);
-   }
-
 
 
 
