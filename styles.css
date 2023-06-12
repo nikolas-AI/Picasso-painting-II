@@ -47,3 +47,9 @@
 .one , .two {
     filter: blur(1px);
   }
+
+  .name {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
